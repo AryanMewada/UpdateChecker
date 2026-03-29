@@ -1,2 +1,2 @@
-2.0
-https://en.aptoide.com/store/bsr-studios
+1.0
+https://bsr-studios.github.io
